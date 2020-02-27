@@ -81,7 +81,7 @@ LC_ALL=en_AU.iso88591 locale charmap
 cat > /etc/profile << "EOF"
 # Begin /etc/profile
 
-export LANG=en_AU.iso88591
+export LANG=en_AU.UTF-8
 
 # End /etc/profile
 EOF
